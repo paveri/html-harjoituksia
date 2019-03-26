@@ -1,18 +1,15 @@
-﻿img	{
-	clear: both;
-	float: left;
-	margin: 10px;
-	}
+﻿body {
+	 margin: auto 0;
+}
 table {
      width: 450px;
      border-collapse: collapse;
-        }
-
+	 margin: 0 0 300px 300px;
+       }
 table thead th, thead td {
       background-color: #cbc9c9;
       font-weight: bold;
       }
-
 table td {
       border: 1px solid #999;
 	  text-align: right;
@@ -24,7 +21,6 @@ table th {
 table tbody tr:nth-child(even) {
       background-color: #eeeeee;
       }
-
 table tbody tr:nth-child(odd) {
       background-color: #ffffff;
       }
@@ -32,3 +28,15 @@ table tfoot td {
       background-color: #cbc9c9;             
       font-weight: bold;
       }
+h2 {
+      margin: 300px 300px 10px 300px;
+	  text-align: center;
+      }
+.vasen {
+	text-align: left;
+	border: 0;
+}
+.oikea {
+	text-align: right;
+	}
+

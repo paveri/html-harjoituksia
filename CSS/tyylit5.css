@@ -1,0 +1,33 @@
+﻿body {
+	 margin: auto 0;
+}
+
+sup { 
+    font-size: 8px;
+}
+sub { 
+    font-size: 8px;
+}
+
+table {
+     width: 450px;
+	 border: 1;
+     border-collapse: collapse;
+	 border-margin: 2px;
+	  }
+
+#ppp {
+	font-size: 90px;
+}
+#aaa {
+	font-size: 75px;
+}
+#uuu {
+	font-size: 60px;
+}
+#lll {
+	font-size: 45px;
+}
+#iii {
+	font-size: 30px;
+}

@@ -1,0 +1,45 @@
+﻿body {
+	 margin: auto 0;
+}
+h1 {
+	color: green;
+           }
+h2 {
+	 font-family: 'Londrina Shadow', cursive;
+           }
+span {
+	margin: 0 0 0 0;
+	position: relative;
+	padding: 0px;
+	}
+#n2 {
+	color:red;
+	font-size: 10px;
+	}
+
+#n3 {
+	color:#80ff00;
+	font-size: 15px;
+	}
+#n4 {
+	color:#40ff00;
+	font-size: 15px;
+	}
+#n5 {
+	color:#006633;
+	font-size: 20px;
+	}
+#txt1 {
+	font-family: 'Merriweather', serif;
+}
+#txt2 {
+	font-family: 'Pasifico', cursive;
+}
+.ots {
+	margin: 50 px;
+	text-align: left;
+	}
+.txt1 {
+	margin: 50px;
+	text-align: left;
+	}

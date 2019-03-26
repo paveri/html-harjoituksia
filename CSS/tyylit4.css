@@ -1,0 +1,73 @@
+﻿body {
+	 margin: auto 0;
+}
+h1 {
+	color: green;
+           }
+h2 {
+	 font-family: 'Londrina Shadow', cursive;
+           }
+span {
+	margin: 0 0 0 0;
+	position: relative;
+	padding: 0px;
+	}
+#n2 {
+	color:red;
+	font-size: 10px;
+	}
+
+#n3 {
+	color:#80ff00;
+	font-size: 15px;
+	}
+#n4 {
+	color:#40ff00;
+	font-size: 15px;
+	}
+#n5 {
+	color:#006633;
+	font-size: 20px;
+	}
+#n6 {
+	color:#ffcc00;
+	font-size: 20px;
+	}
+#n7 {
+	color:#ffcc00;
+	font-size: 15px;
+	}
+#n8 {
+	color:#3399ff;
+	font-size: 15px;
+	}
+#n9 {
+	color:#cc66ff;
+	font-size: 10px;
+	}
+#n10 {
+	color:#997a00;
+	font-size: 8px;
+	}
+#txt1 {
+	font-family: 'Merriweather', serif;
+	}
+#txt2 {
+	font-family: 'Pasifico', cursive;
+	}
+#txt3a {
+	font-family: 'Baloo Chettan', cursive;
+	font-size: 12px;
+	}
+#txt3b {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 12px;
+	height: 20px;
+	}
+#txt4 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 12px;
+	}
+.ots {
+	text-align: left;
+	}
