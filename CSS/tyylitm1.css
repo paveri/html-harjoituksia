@@ -1,27 +1,11 @@
 ﻿body {
 	 margin: auto 0;
 }
-h1 {
-	color: green;
-	text-align:center;
-	}
-h2 {
-	text-align:center;
-           }
-p {
-	line-height: 19px;
-}
 span {
 	margin: 0 0 0 0;
 	position: relative;
 	padding: 0px;
 	}
-img {
-	margin: 10px 0 0 200px;
-	}
-.isot {
-	text-transform: uppercase;
-}
 #n2 {
 	color:red;
 	font-size: 10px;
@@ -53,3 +37,6 @@ img {
 	margin: 50px;
 	text-align: left;
 	}
+.varitetaan {
+	color: red;
+}
