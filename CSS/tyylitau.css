@@ -1,0 +1,35 @@
+﻿body {
+	 margin: auto 0;
+	 background-color: white;
+}
+table {
+	 margin: 00px 0 0 100px;
+	 background-color: white;
+	 border: 1 solid black;
+	 border-collapse: collapse;
+	 }
+img {
+	 margin: 10px;
+	 width: 400px;
+	 height: 400px;
+}
+.oikeanimi{
+	color:#333333;
+	font-size: 20px;
+	}
+.kayttajanimi {
+	color:#ccccff;
+	font-size: 20px;
+	}
+.paivays {
+	color:#ccccff;
+	font-size: 20px;
+	}
+.paateksti {
+	font-size: 18px;
+	}
+.maininta {
+	font-size: 20px;
+	font-style: bold;
+	}
+
